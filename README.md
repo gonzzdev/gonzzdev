@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">¡Hola 🤠! Soy Gonzz</h2>
+   <h2 align="center">¡Hola 🤠! Soy José González</h2>
 </p>
 
 <p align="center">
