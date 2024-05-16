@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">¡Hola 🤠! Soy José González</h2>
+   <h2 align="center">🤠 ¡Hola! Soy José González</h2>
 </p>
 
 <p align="center">
@@ -24,15 +24,19 @@
  En 2017, comencé ayudando a mi mejor amigo a crear contenido, diseñar su menú y poderlo mandar con un QR para su restaurante de sushi. Eso me llevo a la madriguera de conejo del diseño y desarrollo web. 🧑🏽‍💻
 </p>
 
+<p align="center" width="300">
+   Hoy trabajo como diseñador freelance. Especializado en diseño de marca y productos web. Y actualmente estudio desarrollo de software.
+</p>
+
 <h3 align="center" width="300">
-  Actualmente estoy trabajando en:
+  Lo que hago mejor es:
 </h3>
 <ul width=300>
 <p align="center" width="300">
-  🎨 Diseño de marca y productos web.
+  🎨 Diseño de marca y logotipo.
 </p>
 <p align="center" width="300">
-  🧑🏽‍💻 Desarrollo web.
+  🧑🏽‍💻 Diseño de sitios web y apps.
 </p>
 <p align="center" width="300">
   📺 Creación de contenido sobre diseño y tecnología.
