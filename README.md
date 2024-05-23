@@ -11,7 +11,7 @@
 
 <p>
    <strong>Visual designer and aspiring frontend developer driven to excel in this profession. Proficient in design software and web development tools and technologies. I have contributed to a
-diverse range of projects and keep improving my abilities through research and work. <em>Based in Nuevo Vallarta, México. Working everywhere.</em>
+diverse range of projects and keep improving my abilities through research and work. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
 </strong>
 </p>
 
