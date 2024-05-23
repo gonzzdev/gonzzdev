@@ -1,45 +1,62 @@
-<p align="center" width="300">
-   <h2 align="center">🤠 ¡Hola! Soy José González</h2>
+<h1>
+   <div align="center">
+   	<br>
+   		<img src="header.svg" width="800" height="120">
+   	<br>
+      <a href="https://www.gonzz.art">
+         <img src="./logo-1.svg" width="300">
+      </a>
+   </div>
+</h1>
+
+<p>
+   <strong>Visual designer and aspiring frontend developer driven to excel in this profession. Proficient in design software and web development tools and technologies. I have contributed to a
+diverse range of projects and keep improving my abilities through research and work. <em>Based in Nuevo Vallarta, México. Working everywhere.</em>
+</strong>
 </p>
 
-<p align="center">
-  <span style="width: 8px;"> </span>
-  <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/jos.gonzz" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
-  </a>
-    <a href="https://twitter.com/gonzz_art" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de midudev" height="23px" width="28px" />
-  </a>
-     <a href="https://youtube.com/gonzz-art" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
-  </a>
-  <span style="width: 8px;"> </span>
-     <a href="https://twitch.tv/gonzzart" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
-  </a>
-</p>
+<h2>
+   This is what I do better:
+</h2>
 
-<p align="center" width="300">
- En 2017, comencé ayudando a mi mejor amigo a crear contenido, diseñar su menú y poderlo mandar con un QR para su restaurante de sushi. Eso me llevo a la madriguera de conejo del diseño y desarrollo web. 🧑🏽‍💻
-</p>
+<ul>
+   <li>
+      🎨 Branding & logo design.
+   </li>
+   <li>
+      💻 User interface & product design.
+   </li>
+   <li>
+      ⚙️ Implementing visual design in functional websites.
+   </li>
+   <li>
+      👷🏽 Creating educational content for LATAM.
+   </li>
+   <li>
+      🌮 The best fish tacos you'll try.
+   </li>
+</ul>
 
-<p align="center" width="300">
-   Hoy trabajo como diseñador freelance. Especializado en diseño de marca y productos web. Y actualmente estudio desarrollo de software.
-</p>
-
-<h3 align="center" width="300">
-  Lo que hago mejor es:
+<h3>
+   We can connect here:
 </h3>
-<ul width=300>
-<p align="center" width="300">
-  🎨 Diseño de marca y logotipo.
-</p>
-<p align="center" width="300">
-  🧑🏽‍💻 Diseño de sitios web y apps.
-</p>
-<p align="center" width="300">
-  📺 Creación de contenido sobre diseño y tecnología.
-</p>
 
-<h3 align="center">📸 Revisa mi trabajo <a href="https://gonzz.art">aquí</a> o <a href="https://instagram.com/jos.gonzz">aquí</a>.</h3>
+<h2>
+   <p>
+      <a href="https://www.linkedin.com/in/gonzz-art/" target="_blank" rel="noopener">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://www.twitter.com/gonzz_art" target="_blank" rel="noopener">
+         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      </a>
+      <a href="https://www.instagram.com/jos.gonzz/" target="_blank" rel="noopener">
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+      <a href="https://www.behance.net/gonzz-art" target="_blank" rel="noopener">
+         <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
+      </a>
+   </p>
+</h2>
+<div align="center">
+   <img align="center" src="./logo-2.svg" width="100">
+</div>
