@@ -33,7 +33,6 @@
 						system-ui,
 						-apple-system,
 						'Segoe UI',
-						Roboto,
 						Helvetica,
 						Arial,
 						sans-serif,
@@ -45,7 +44,7 @@
 				        text-align: center;
 					width: 100%;
 					height: 120px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: linear-gradient(-45deg, #0f0c11, #6C3F99, #ff9933);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -77,7 +76,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1 id="hello-world-i-m-tris-">Hey Mundo, soy José 🕺🏽</h1>
+				<h1 id="hello-world-i-m-tris-">Hey there, I'm Gonzz 🕺🏽</h1>
 				 
 			</div>
 		</div>
