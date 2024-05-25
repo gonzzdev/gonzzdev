@@ -30,9 +30,6 @@ diverse range of projects and keep improving my abilities through research and w
       ⚙️ Implementing visual design in functional websites.
    </li>
    <li>
-      👷🏽 Creating educational content for LATAM.
-   </li>
-   <li>
       🌮 The best fish tacos you'll try.
    </li>
 </ul>
