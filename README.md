@@ -54,7 +54,7 @@
    </p>
 </h2>
 <div align="center">
-   <a href="https://gonzz.dev">
+   <a href="https://gonzz.dev" target="_blank" rel="noopener">
       <img align="center" src="./logo-2.svg" width="100">
    </a>
 </div>
