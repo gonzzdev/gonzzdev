@@ -2,16 +2,12 @@
    <div align="center">
    	<br>
    		<img src="header.svg" width="800" height="120">
-   	<br>
-      <a href="https://www.gonzz.art">
-         <img src="./logo-1.svg" width="300">
-      </a>
+      </br>
    </div>
 </h1>
 
 <p>
-   <strong>Visual designer and aspiring frontend developer driven to excel in this profession. Proficient in design software and web development tools and technologies. I have contributed to a
-diverse range of projects and keep improving my abilities through research and work. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
+   <strong>I'm José González. Frontend developer & designer driven to excel in this profession. Proficient in design software and web development technologies. My goal is to provide creative solutions to technical problems. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
 </strong>
 </p>
 
@@ -21,13 +17,16 @@ diverse range of projects and keep improving my abilities through research and w
 
 <ul>
    <li>
-      🎨 Branding & logo design.
+      🎨 Web design & UI.
    </li>
    <li>
-      💻 User interface & product design.
+      💻 Frontend development.
    </li>
    <li>
-      ⚙️ Implementing visual design in functional websites.
+      ⚙️ Maintaining and updating projects.
+   </li>
+   <li>
+      🧑🏽‍🏫 Teaching design & software in my community.
    </li>
    <li>
       🌮 The best fish tacos you'll try.
@@ -55,5 +54,7 @@ diverse range of projects and keep improving my abilities through research and w
    </p>
 </h2>
 <div align="center">
-   <img align="center" src="./logo-2.svg" width="100">
+   <a href="https://gonzz.dev">
+      <img align="center" src="./logo-2.svg" width="100">
+   </a>
 </div>
