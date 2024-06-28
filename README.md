@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-   <strong>I'm José González. Frontend developer & designer driven to excel in this profession. Proficient in design software and web development technologies. My goal is to provide creative solutions to technical problems. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
+   <strong>I'm José González. Developer & designer driven to excel in this profession. Proficient in design software and web development technologies. My goal is to provide creative solutions to technical problems. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
 </strong>
 </p>
 
@@ -17,16 +17,13 @@
 
 <ul>
    <li>
-      🎨 Web design & UI.
+      🎨 Web Design & Branding.
    </li>
    <li>
-      💻 Frontend development.
+      💻 Frontend Development.
    </li>
    <li>
-      ⚙️ Maintaining and updating projects.
-   </li>
-   <li>
-      🧑🏽‍🏫 Teaching design & software in my community.
+      🧑🏽‍🏫 Sharing content in my community.
    </li>
    <li>
       🌮 The best fish tacos you'll try.
@@ -39,16 +36,16 @@
 
 <h2>
    <p>
-      <a href="https://www.linkedin.com/in/gonzz-art/" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/gonzz-dev/" target="_blank" rel="noopener">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
-      <a href="https://www.twitter.com/gonzz_art" target="_blank" rel="noopener">
+      <a href="https://www.twitter.com/gonzz_dev" target="_blank" rel="noopener">
          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
       </a>
-      <a href="https://www.instagram.com/jos.gonzz/" target="_blank" rel="noopener">
+      <a href="https://www.instagram.com/gonzz.dev/" target="_blank" rel="noopener">
          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
-      <a href="https://www.behance.net/gonzz-art" target="_blank" rel="noopener">
+      <a href="https://www.behance.net/gonzz-dev" target="_blank" rel="noopener">
          <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
       </a>
    </p>
