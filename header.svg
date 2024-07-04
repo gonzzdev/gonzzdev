@@ -29,15 +29,7 @@
 				}
 
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+					font-family: 'Inter', sans-serif;
 					display: flex;
 					flex-direction: column;
 					margin: 0;
@@ -46,7 +38,7 @@
 					height: 120px;
 					background: linear-gradient(-45deg, #0f0c11, #6C3F99, #ff9933);
 					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
+					animation: gradientBackground 4s ease infinite;
 					border-radius: 10px;
 					color: white;
 				}
@@ -70,7 +62,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1 id="hello-world-i-m-tris-">🕺🏽 Hey there! Welcome 🕺🏽</h1>
+				<h1 id="title">🕺🏽 Hey there! My name is 🕺🏽</h1>
 			</div>
 		</div>
 	</foreignObject>
