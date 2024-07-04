@@ -1,13 +1,11 @@
 <h1>
    <div align="center">
-   	<br>
-   		<img src="header.svg" width="800" height="120">
-      </br>
+      <img src="logo-1.svg" width="400" />
    </div>
 </h1>
 
 <p>
-   <strong>I'm José González. Developer & designer driven to excel in this profession. Proficient in design software and web development technologies. My goal is to provide creative solutions to technical problems. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
+   <strong>I'm José González. Developer & designer driven to excel in this profession. My goal is to provide creative solutions to technical problems. Based in <em>Nuevo Vallarta, México</em>. Working <em>everywhere.</em>
 </strong>
 </p>
 
@@ -51,7 +49,9 @@
    </p>
 </h2>
 <div align="center">
-   <a href="https://gonzz.dev" target="_blank" rel="noopener">
-      <img align="center" src="./logo-2.svg" width="100">
+   <a href="https://gonzz.dev">
+      <br>
+      	<img src="header.svg" width="700" height="120" />
+      </br>
    </a>
 </div>
