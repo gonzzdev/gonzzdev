@@ -15,16 +15,10 @@
 
 <ul>
    <li>
-      🎨 Web Design & Branding.
+      💻 Web Design & Development.
    </li>
    <li>
-      💻 Frontend Development.
-   </li>
-   <li>
-      🧑🏽‍🏫 Sharing content in my community.
-   </li>
-   <li>
-      🌮 The best fish tacos you'll try.
+      🌮 The best fish taquitos you'll try.
    </li>
 </ul>
 
