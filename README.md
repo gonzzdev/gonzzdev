@@ -1,13 +1,12 @@
 # ![https://gonzz.dev](https://raw.githubusercontent.com/gonzzdev/gonzzdev/refs/heads/main/MuscleMan.png) Hey there, I'm José Luis Gutiérrez González.
 **`Designer/Developer - I make stuff on the web`**
 ![https://github.com/gonzzdev](./Banner.png)
-Self taught front-end developer and designer helping brands stand out. I like to provide creative solutions to technical problems and creating functional and beautiful user interfaces. Based in **Nuevo Vallarta** and working **everywhere**.
+Self taught front-end developer and designer helping brands stand out. Providing creative solutions to technical problems and design stunning user-centric interfaces. Based in **Nuevo Vallarta** and working **everywhere**.
 
 ## Things I do:
 - 🎨 Visual Design - Logotype - Brand guidelines - Digital and printed assets
-- 🛜 Web Design - Design system - Figma prototype
-- 💻 Web development - Constant support
-- 🌮 The best fish & shrimp tacos in town
+- 🛜 Web Design - Design System - Figma Prototype
+- 💻 Front-End Development (in training)
 
 ### We can connect here:
 <p align="left">
